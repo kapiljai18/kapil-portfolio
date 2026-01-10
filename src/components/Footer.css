@@ -1,0 +1,13 @@
+/* src/components/Footer.css */
+.footer {
+  background: rgba(30, 41, 59, 0.95);
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  backdrop-filter: blur(10px);
+}
+
+.footer p {
+  margin: 0;
+  opacity: 0.9;
+}
