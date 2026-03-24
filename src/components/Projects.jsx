@@ -29,9 +29,9 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "FarmSaathi - Farm Products Website",
-      description: "FarmSaathi features fresh and ready to use farm products.(Frontend)",
-      tech: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      title: "FYPP - Mern Full Stack WebApplication",
+      description: "FYPP features best photographers for ur functions or events",
+      tech: ["React js", "Node js", "Express js", "MongoDB"],
       image: farmImg,
       link: "#",
       github: "#"

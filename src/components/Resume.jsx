@@ -1,6 +1,6 @@
 /* src/components/Resume.js - Fully Working with CV Download */
 import React from 'react';
-import kapilResume from './kapil-resume.pdf'; // ✅ Add your resume PDF here
+import kapilResume from './kapil-jaitapkar-resume.pdf'; // ✅ Add your resume PDF here
 import './Resume.css';
 
 const Resume = () => {
