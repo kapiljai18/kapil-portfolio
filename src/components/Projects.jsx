@@ -5,7 +5,7 @@ import './Projects.css';
 // import local images (same folder or ./images folder)
 import petImg from './pet.jpeg';      // or './images/project1.jpg'
 import gymImg from './gym.jpeg';        // or './images/project2.jpg'
-import fyppImg from './fypp.jpg';        // or './images/project3.jpg'
+import fyppImg from './fypp.jpeg';        // or './images/project3.jpg'
 
 const Projects = () => {
   const projects = [
